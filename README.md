@@ -11,5 +11,5 @@
  git clone https://github.com/wizard-13/WIZ_ARD.git
  cd WIZ_ARD
  git bull
- python BLACKWIZ.py
+ python BLACKWIZ1.py
  
