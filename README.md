@@ -12,5 +12,5 @@ pkg update
  git clone https://github.com/wizard-13/WIZ_ARD.git
  cd WIZ_ARD
  git bull
- python BLACKWIZ1.py
+ python BLACKWIZ1_enc.py
  
